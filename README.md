@@ -3,10 +3,15 @@ Git Commands
 
 _A list of my commonly used Git commands_
 
-Set your username:
+### Set your username:
   git config --global user.name "FIRST_NAME LAST_NAME"
 Set your email address:
   git config --global user.email "MY_NAME@example.com"
+  
+| Command | Description |
+| ------- | ----------- |
+| `git config --global user.name "FIRST_NAME LAST_NAME"` | Set Name |
+| `it config --global user.email "MY_NAME@example.com"` | Set Email |
 
 ### Getting & Creating Projects
 
