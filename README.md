@@ -8,7 +8,7 @@ _A list of my commonly used Git commands_
 | Command | Description |
 | ------- | ----------- |
 | `git config --global user.name "FIRST_NAME LAST_NAME"` | Set Name |
-| `it config --global user.email "MY_NAME@example.com"` | Set Email |
+| `git config --global user.email "MY_NAME@example.com"` | Set Email |
 
 ### Getting & Creating Projects
 
