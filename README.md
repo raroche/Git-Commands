@@ -68,3 +68,15 @@ _A list of my commonly used Git commands_
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
 
+### Discard the local changes
+
+
+| Command | Description |
+| ------- | ----------- |
+| `it reset --hard` | Discard the local changes |
+| `git checkout -t -f remote/branch` | Discard the local changes |
+| `git checkout filename` | Discard local changes for a specific file|
+
+
+
+
